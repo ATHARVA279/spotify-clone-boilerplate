@@ -65,14 +65,18 @@
 }
 
 .more-lower{
-    margin: 20px 5px;
+    margin: 20px 20px;
     background-color: black;
+}
+
+.more-lower h2{
+    margin-top:10px;
 }
 
 .install{
     display: flex;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 60px;
 }
 .install img{
     height: 20px;
@@ -93,6 +97,7 @@
     justify-content: space-between;
     background-color: rgb(66, 66, 66);
     border-top: 1px solid white;
+    padding-bottom: 10px;
 }
 
 .rightopt{
@@ -103,6 +108,7 @@
 .dream{
     display: flex;
     color: white;
+    align-items: center;
 }
 
 .dream p{
@@ -224,7 +230,7 @@
     height: 200px;
     width: 150px;
     background-color: #353332;
-    margin: 120px 10px 0 10px;
+    margin: 120px 10px 5px 10px;
     color: white;
     font-size: 10px;
     align-content: center;
