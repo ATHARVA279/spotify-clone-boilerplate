@@ -76,7 +76,7 @@
 .install{
     display: flex;
     align-items: center;
-    margin-top: 60px;
+    margin-top: 0px;
 }
 .install img{
     height: 20px;
@@ -193,7 +193,7 @@
 }
 
 .happy{
-    margin-top: 0px;
+    padding-top: 70px;
     margin-left: 205px;
     color: #25211F;
     background-color:rgb(66, 66, 66);
